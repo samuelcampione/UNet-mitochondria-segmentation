@@ -4,3 +4,4 @@ This project utilizes a U-Net architecture for the segmentation of mitochondria 
 
 In this project I have used deep learning, image processing, and PyTorch to achieve accurate segmentation results for biological image data.
 
+See project code here: [unet_mitochondria.ipynb](https://github.com/samuelcampione/UNet-mitochondria-segmentation/blob/main/unet_mitochondria.ipynb)
